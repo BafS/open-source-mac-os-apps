@@ -278,6 +278,7 @@ You can see which in which language an app is written. Curently there are follow
 
 ### Graphics
 
+- [Material Colors Native](https://github.com/BafS/Material-Colors-native) - Choose your Material colors and copy the hex code. ![ObjectiveCIcon]
 - [GifCapture](https://github.com/onmyway133/GifCapture) - Gif capture app for macOS. ![SwiftIcon]
 - [Sketch Toolbox](https://github.com/buzzfeed/Sketch-Toolbox) - Plugin manager for Sketch.app. ![ObjectiveCIcon] ![CIcon]
 - [Aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux). ![CppIcon] ![CIcon]
